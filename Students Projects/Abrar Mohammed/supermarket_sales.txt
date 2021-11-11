@@ -1,0 +1,10 @@
+
+
+    quantity of sales with low price in a month in yangon
+
+fact: quantity sold,city,time,price
+
+
+dimensions:Invoice ID,  customer type ,gender , quality, date ,rating
+
+
