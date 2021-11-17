@@ -7,4 +7,4 @@ Here are the datasets we'll use in our workshop.
 [Supermarket sales data](https://www.kaggle.com/aungpyaeap/supermarket-sales)
 
 ##### Notes:
-* You need to understamd the supermarket dataset (Till now).
+* You need to understand the supermarket dataset.
