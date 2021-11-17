@@ -1,0 +1,22 @@
+#- Create personal folder on GitHub with Formal Name.
+
+#- Design the Star Schema.
+	- 4-Step design process.
+	1. Select the business process.
+		Most sold product line in each City/Branch
+	2. Declare the grain.
+		number of products sold in a specific proudct line for each branch/city
+	3. Identify the dimensions.
+		- Store (StoreID (PrimaryKey) , Branch, City)
+		- Date (DateID(PrimaryKey), Day, Month, Year)
+		- Invoice(Product?) Dimension (Invoice ID (Primary), Quantity, Product Line, Price, Payment Type)
+	4. Identify the facts. 
+		- StoreID
+		- DateID
+		- InvoiceID
+
+#- Understand and clean the data.
+
+- Load the Dimensions into SQL.
+
+- Load the Fact Table into SQL.
